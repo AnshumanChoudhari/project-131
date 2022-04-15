@@ -1,0 +1,36 @@
+#body{
+   
+  background: linear-gradient(#ff0000 , #ff8400 , #ffb300 , #22ff00 , #00c3ff , #0d00ff , #8000ff  );
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#bedroom{
+background-color:white;
+width: 50%;
+border-radius: 20px;
+}
+#TV{
+    background-color: white;
+    width: 50%;
+    border-radius: 20px;
+}
+#plants{
+    background-color: white;
+    width: 50%;
+    border-radius: 20px;
+}
+#toys{
+    background-color: white;
+    width: 50%;
+    border-radius: 20px;
+}
